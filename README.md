@@ -9,10 +9,10 @@ Welcome to the repository for projects inspired by the book "Modeling and Simula
 ### Chapters
 
 - **Preface**
-- **Modeling**
-- **Bike Share System**
-- **Iteration**
-- **Sweeping Parameters**
+- [**Modeling**](https://github.com/Umang-Lodaya/Modelling-and-Simulation-in-Python/tree/main/Chapter%2001%20-%20Modelling)
+- [**Bike Share System**](https://github.com/Umang-Lodaya/Modelling-and-Simulation-in-Python/tree/main/Chapter%2002%20-%20Bike%20Share)
+- [**Iteration**](https://github.com/Umang-Lodaya/Modelling-and-Simulation-in-Python/tree/main/Chapter%2003%20-%20Iterative%20Modelling)
+- [**Sweeping Parameters**](https://github.com/Umang-Lodaya/Modelling-and-Simulation-in-Python/tree/main/Chapter%2004%20-%20Sweeping%20Parameters)
 - **World Population**
 - **Proportional Growth**
 - **Limits to Growth**
